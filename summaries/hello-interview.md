@@ -52,6 +52,8 @@
    - Capacity Estimation: Explain to the interviewer that you would like to skip on estimations upfront and that you will do math while designing when/if necessary. Perform calculations only if they influence design.
       - Ex: Can you use a single instance of a min-heap to calculate the top trending FB posts or will you need to shard it across multiple instances?
 
+TODO: Pick up from here, the stuff below is just ChatGPT's initial guess at a summary of the rest of the page.
+
 ### Core Entities (~2 minutes)
 List and define core entities relevant to the system.
 
